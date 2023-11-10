@@ -11,8 +11,10 @@ function Navbar() {
         <img src={logo} alt="" />
         <li className="text-zinc-200 list-none	">Meme Generator</li>
       </div>
-      
-      <li className="mr-10 text-zinc-200 list-none	" >First react project xd</li>
+      <li className="mr-10 text-zinc-200 list-none hidden lg:block">First react project xd</li>
+
+
+
     </nav>
    
 </>
